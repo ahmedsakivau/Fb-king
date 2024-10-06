@@ -1,8 +1,8 @@
 # Fb-king 
 
 
-git clone https://github.com/ahmedsakivau/Fb-king/blob/main/FB-KING-1.py
+git clone https://github.com/ahmedsakivau/Fb-king
 
-cd FB-KING-1
+cd Fb-king
 
 python FB-KING-1.py
