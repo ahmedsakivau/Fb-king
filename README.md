@@ -3,6 +3,6 @@
 
 git clone https://github.com/ahmedsakivau/Fb-king/blob/main/FB-KING-1.py
 
-cd Fb-king-id-crack-Command
+cd FB-KING-1.py
 
 python FB-KING-1.py
